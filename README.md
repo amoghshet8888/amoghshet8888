@@ -49,8 +49,8 @@ A comprehensive event management system with user authentication, event creation
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/amogh-shet-b88696248/)
-- Email: [your.email@example.com](shetamogh043@gmail.com)
+- LinkedIn:(https://www.linkedin.com/in/amogh-shet-b88696248/)
+- Email: (shetamogh043@gmail.com)
 
 ---
 
@@ -60,4 +60,4 @@ A comprehensive event management system with user authentication, event creation
 
 ---
 
-⭐️ From [yourusername](https://github.com/amoghshet8888)
+⭐️ From (https://github.com/amoghshet8888)
